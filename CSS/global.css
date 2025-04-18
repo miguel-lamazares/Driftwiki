@@ -7,6 +7,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    overflow: hidden;
   }
   
   :root {
@@ -19,7 +20,7 @@
   
   body, button, a {
     color: var(--text);
-    font: 400 1rem "Space Grotesk", sans-serif;
+    font: 370 1rem "Space Grotesk", sans-serif;
   }
   
   a {
@@ -41,6 +42,4 @@
     overflow: hidden;
   }
 
-  .car {
-    left: 50px;
-  }
+

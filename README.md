@@ -29,7 +29,7 @@ Interactive UI elements for better user engagement
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Dexzn08/driftwiki.git
+git clone https://github.com/miguel-lamazares/Driftwiki.git
 ```
 2. Open the index.html file in your browser.
 
